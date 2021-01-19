@@ -8,14 +8,14 @@ I'm currently working on [Mycoworkcafé](https://app.mycoworkcafe.com) as front-
 ### 👨‍💻️ My tech stack
 
 
-<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/css.svg" width="20px"  alt="CSS"/>
-<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/html.svg" width="20px"  alt="HTML"/>
-<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/javascript.svg" width="20px"  alt="Javascript"/>
-<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/typescript.svg" width="20" height="20px" alt="Typescript" />
-<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/nodejs.svg" width="20px" height="20px" alt="NodeJs" />
-<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/react.svg" width="30" height="20px" alt="React" />
-<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/vue.svg" width="20" height="20px" alt="Vue" />
-<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/php.svg" width="20" height="20px" alt="PHP" />
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/css.svg" width="20px"  alt="CSS"/>](https://github.com/miladd3)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/html.svg" width="20px"  alt="HTML"/>](https://github.com/miladd3)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/javascript.svg" width="20px"  alt="Javascript"/>](https://github.com/miladd3)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/typescript.svg" width="20" height="20px" alt="Typescript" />](https://github.com/miladd3)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/nodejs.svg" width="20px" height="20px" alt="NodeJs" />](https://github.com/miladd3)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/react.svg" width="30" height="20px" alt="React" />](https://github.com/miladd3)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/vue.svg" width="20" height="20px" alt="Vue" />](https://github.com/miladd3)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/php.svg" width="20" height="20px" alt="PHP" />](https://github.com/miladd3)
 
 ### 📊 Some Stats
 <img src="https://github-readme-stats.vercel.app/api?username=miladd3" alt="Milad Github Stats" width="300px" />
