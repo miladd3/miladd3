@@ -1,4 +1,4 @@
-### Hi 😁
+## Hi 😁
 
 I Develop Webapps using Javascript mostly on browsers. I worked with Javascript for the past 6+ years, and I think im addicted to it.
 I also try to create open source projects if I had time.
@@ -17,9 +17,10 @@ I'm currently working on [Mycoworkcafé](https://app.mycoworkcafe.com) as front-
 [<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/vue.svg" width="20" height="20px" alt="Vue" />](https://github.com/miladd3)
 [<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/php.svg" width="20" height="20px" alt="PHP" />](https://github.com/miladd3)
 
-### 📊 Some Stats
-<img src="https://github-readme-stats.vercel.app/api?username=miladd3" alt="Milad Github Stats" width="300px" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="Top Langs" width="300px" />
+### 🌐 Me on Internet
 
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/website.svg" width="20px"  alt="website"/> Website](http://dehghan.net)
 
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/linkedin.svg" width="20px"  alt="linkedin"/> Linkedin](https://www.linkedin.com/in/miladd3/)
+
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/medium.svg" width="20px"  alt="medium"/> Medium](https://medium.com/@miladd3/)
