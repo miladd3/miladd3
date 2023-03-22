@@ -3,7 +3,7 @@
 I Develop Webapps using Javascript mostly on browsers. I worked with Javascript for the past 6+ years, and I think im addicted to it.
 I also try to create open source projects if I had time.
 
-I'm currently working at [Trengo](https://trengo.com) as front-end developer also I try to post articles on [Medium](https://medium.com/@miladd3).
+I'm currently working at [ABN AMRO](https://abnamro.com) as front-end developer also I try to post articles on [Medium](https://medium.com/@miladd3).
 
 ### 👨‍💻️ My tech stack
 
